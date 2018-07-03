@@ -1,0 +1,11 @@
+.main {
+    margin: auto;
+    width: 500px;    
+}
+#sub {
+    height: 50px;
+    border: 1px;
+    border-style: solid;
+    border-color: aliceblue;
+    padding: 10px;
+}
